@@ -1,16 +1,19 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 
-<!--
-**Sundeep-D/Sundeep-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm [Sundeep Dayalan!](http://sundeepdayalan.in) 👋 <a align="left"> <img src="https://komarev.com/ghpvc/?username=Sundeep-D&label=Views&color=blue&style=plastic" alt="Sundeep-D" /> </a>
 
-Here are some ideas to get you started:
+A Google Developer Expert in android and Application Developer from Chennai, India. I love building applications & discussing new product ideas.
+<br/>
+<br/>
+Ask me anything about...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src='https://img.shields.io/badge/angular-%230095D5?logo=angular&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/android-%3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/firebase-%230095D5?logo=firebase&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/java-%8000?logo=java&logoColor=white&style=for-the-badge' height='25'/>
+
+
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Mobile app developement
+- 🤔 I’m looking for help for our organisation [Crado](https://github.com/CradoApps)
+- 💬 Apart from tech you can Ask me about Movies, TV Shows
+- 📫 How to reach me at sundeep0412@gmail.com
+- ⚡ Fun fact: I can mentally be present in a meeting for 15-20 minutes.

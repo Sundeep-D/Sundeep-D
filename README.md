@@ -15,5 +15,5 @@ Ask me anything about...
 - 👯 I’m looking to collaborate on Mobile app developement
 - 🤔 I’m looking for help for our organisation [Crado](https://github.com/CradoApps)
 - 💬 Apart from tech you can Ask me about Movies, TV Shows
-- 📫 How to reach me at sundeep0412@gmail.com
+- 📫 Reach me at contact@sundeepdayalan.in
 - ⚡ Fun fact: I can mentally be present in a meeting for 15-20 minutes.

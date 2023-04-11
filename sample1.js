@@ -1,1 +1,1 @@
-alert("You have been phished")
+alert("You have been phished");

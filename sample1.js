@@ -1,1 +1,3 @@
-alert("You have been phished");
+window.onload = function() {
+  alert('Page has loaded!');
+};
